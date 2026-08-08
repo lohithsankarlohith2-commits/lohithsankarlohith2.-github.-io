@@ -3,7 +3,7 @@
 <head>
     <title>Lohith Sankar | Developer Portfolio</title>
     <style>
-        body {
+        body { 
             font-family: Arial, sans-serif;
             margin: 0;
             background: #f5f7fa;
